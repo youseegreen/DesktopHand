@@ -1,0 +1,2 @@
+# DesktopHand_pub
+PCのDesktop画面に、マウスの代わりとなるバーチャルハンドを出現させるアプリです。
