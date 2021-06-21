@@ -5,5 +5,5 @@ PCのDesktop画面に、マウスの代わりとなるバーチャルハンド�
 ![drag](https://user-images.githubusercontent.com/39123031/109798087-a52e2680-7c5d-11eb-8fb9-b832c7aff9ff.gif)
 
 バーチャルハンド操作のために、このアプリとは別のタッチパネルアプリ
-（https://github.com/youseegreen/TouchPanel-for-ExtendedHand/releases/）
+（ https://github.com/youseegreen/TouchPanel-for-ExtendedHand/releases ）
 が必要となります。
